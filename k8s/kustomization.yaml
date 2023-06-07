@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: goserver
-  newName: barreiradev/gitopsfc
+  newName: barreiradev/gitopstudy
   newTag: 90e5ec0b1795baf6a971abe02742ec2b5b01d7aa
