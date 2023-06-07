@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: barreiradev/gitopstudy
-  newTag: a566d12636fb2af40e20b9cabd97ac0566e6c1d0
+  newTag: 19f17b475726f3f385c65259503dc86126809303
